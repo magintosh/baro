@@ -4,5 +4,5 @@
 
 Barış Özdemir
 <br>-mag
-<b> Konya <br>
+<b> <br> Konya
 Barosu Seçim Scripti </b>
